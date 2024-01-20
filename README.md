@@ -9,8 +9,8 @@ com a funcionalidade do conteúdo através do DOM *(Document Object Model)*.
 * CSS: Responsável pela estilização e layout da aplicação.
 * DOM (Document Object Model): Utilizado para a manipulação dos elementos na página.
 
-[link](https://diegodeyvisonr.github.io/digital-keyboard-js/).
-![Piano Simulador]([[imageurl](https://files.fm/u/3pdurdjytq)https://files.fm/u/3pdurdjytq](https://uploaddeimagens.com.br/imagens/uVVw_Gk)https://uploaddeimagens.com.br/imagens/uVVw_Gk)
+[Piano Simulator](https://diegodeyvisonr.github.io/digital-keyboard-js/)
+
 
 
 
